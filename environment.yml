@@ -1,0 +1,11 @@
+name: geoglows
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - uwsgi
+  - flask
+  - flask-restful
+  - pandas
+  - plotly
+  - geoglows
